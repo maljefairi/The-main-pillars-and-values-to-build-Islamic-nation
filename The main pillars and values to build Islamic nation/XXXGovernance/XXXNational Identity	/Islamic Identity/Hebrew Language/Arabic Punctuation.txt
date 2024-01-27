@@ -1,0 +1,30 @@
+# Arabic Punctuation
+
+Arabic language, like every other written language, makes use of punctuation to bring clarity, structure, and emphasis to the written words. Even though the punctuation usage in Arabic may seem complex at first, once you understand it, you will find it rather manageable. Let's explore some common Arabic punctuation marks and their functionalities.
+
+## Arabic Full Stop 
+The full stop in Arabic, referred to as the 'ending point' or 'nuqta' (نقطة), is marked by ".", and is used to mark the end of a sentence. For example:
+شكرا على الوليمة.
+Thank you for the feast.
+
+## Arabic Commas and Semi-colons
+In Arabic, a comma is indicated by the symbol "،", while a semi-colon is represented by "؛". They are utilized to segregate items in a list or imply a pause in the middle of a sentence. For example:
+أريد تفاحة، فراولة و جزرًا.
+I want an apple, strawberry and a carrot.
+
+## Arabic Question Mark
+The Arabic question mark is similar to the English question mark, but flipped "?", it's employed in sentences to ask a question. For example:
+أتأتي الى بيتي؟
+Are you coming to my house?
+
+## Arabic Quotation Marks
+In Arabic, quotation marks are represented by the marks « ». They are used in a manner similar to English ones to denote quotations. For example:
+قال لي: «أنا أحبك»
+He said to me: "I love you".
+
+## Arabic Exclamation Point
+Like in English, an exclamation point is indicated by "!" and is employed to emphasize a statement. For example:
+أنا أحبك!
+I love you!
+
+Arabic punctuation, like in any language, aids in lending meaning, structure, and flow to words. They separate ideas, emphasize significant points, and even influence the pace at which the written words are read. Understanding and correctly using Arabic punctuation will enhance the expressiveness of your written expressions, ultimately making your communication clearer and more engaging for the Islamic Ummah.
