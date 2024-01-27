@@ -1,0 +1,35 @@
+# Arabic Syntax
+
+Arabic Syntax encompasses the set of principles and rules that dictate the formation of sentences in the Arabic language. It is a vital component in achieving fluency and accuracy when using the Arabic language.
+
+## Basic Elements
+
+An Arabic sentence, similar to other languages, normally consists of a subject, a verb, and an object. Notably, in Arabic syntax, especially narrative scripts, the verb often appears before the subject. This characteristic is known as VSO (verb-subject-object) order. For instance, "تكلم الرجل" translates to 'The man spoke.' However, the direct translation is 'Spoke the man.'
+
+## Gender and Number Agreement
+
+Arabic is an inflected language in which words change form to indicate grammatical associations. Verbs must comply with their subjects in terms of both gender and count. For instance, the word 'write' varies depending on who is performing the action:
+
+- "أنا أكتب" (I am writing - male speaker)
+- "أنا أكتب" (I am writing - female speaker)
+
+## The Definite Article
+
+The Arabic definite article "ال" ('al') is prefixed to a noun:
+
+- "كتاب" (book)
+- "الكتاب" (the book)
+
+## Construct State
+
+In Arabic, to represent possession or affiliation, there is a syntactical feature called the construct state, also recognized as "idafa." It represents 'of' or 's in English. For example:
+
+- "بيت المدرس" (The teacher's house or the house of the teacher)
+
+## Word Order
+
+In the Arabic language, adjectives commonly come after the nouns they modify, contrary to English syntax:
+
+- "بيت كبير" (big house translated directly as "house big")
+
+Understanding Arabic syntax is crucial to mastering the Arabic language. Its unique structure and rules make it different from many other languages, which can be challenging for learners but offer a rewarding linguistic and cultural journey. An intrinsic part of articulating the Islamic Ummah is recognizing the beauty and intricacy of the Arabic language, the language of the Quran.
