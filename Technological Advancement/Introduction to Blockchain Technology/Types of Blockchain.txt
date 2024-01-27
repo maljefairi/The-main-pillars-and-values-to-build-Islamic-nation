@@ -1,0 +1,23 @@
+# Types of Blockchain
+
+As the landscape of digital technology continuously evolves, blockchain technology has notably emerged as a revolutionary tool. Multiple types of blockchain networks have been developed, each catering to different uses and contexts. This article will familiarize you with these types and their crucial role in technological advancement, particularly for the Islamic nation.
+
+## 1. Public Blockchains
+
+Firstly, we have **public blockchains** that are open to everyone willing to participate. These platforms are decentralized, meaning any individual can join, exit, and participate in the network without seeking any permission. The transaction processes in public blockchains are transparent and can be audited by any participant. Bitcoin, the inaugural blockchain, is a popular example of a public blockchain.
+
+## 2. Private Blockchains
+
+Contrarily, **private blockchains** are permission-specific and exclusive to authorized users or organizations only. The transaction details on these platforms are not publicly accessible and are managed by a single body or consortium. Hyperledger Fabric represents a classic example of a private blockchain, extensively used by enterprises to uphold privacy and security.
+
+## 3. Consortium Blockchains 
+
+Another category falls under **consortium blockchains**, which are semi-decentralized platforms. They are regulated by several organizations instead of a solitary entity, creating a balance between the openness of public and the privacy of private blockchains. R3 Corda, a blockchain explicitly suitable for financial applications, falls under this type.
+
+## 4. Hybrid Blockchains
+
+Lastly, **hybrid blockchains** integrate the best features from both public and private blockchains. They meld the security and transparency of the public networks with the privacy in the private networks. They can be customised according to user requirements. Dragonchain is a noteworthy example of a hybrid blockchain.
+
+In essence, every type of blockchain serves a different purpose, and organizations or users select the appropriate blockchain depending on their requirements. Public blockchains are an excellent option for systems that need absolute transparency and decentralization. At the same time, private and consortium blockchains are beneficial for enterprises demanding control over the network. Hybrid blockchains provide a balanced solution.
+
+Developing an understanding of these various types of blockchain networks is a great stride towards realizing how this revolutionary technology can reform several sectors in line with the Islamic Ummah's vision of technological advancement. Considering the promising potential of blockchain technology to enhance transparency, bolster efficiency, and improve security, it is anticipated to become an indispensable part of the digital world in the future.
