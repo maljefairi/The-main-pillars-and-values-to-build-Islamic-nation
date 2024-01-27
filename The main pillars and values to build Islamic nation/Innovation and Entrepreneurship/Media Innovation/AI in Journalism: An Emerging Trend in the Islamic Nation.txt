@@ -1,0 +1,31 @@
+# AI in Journalism: An Emerging Trend in the Islamic Nation
+
+The progress in journalism is witnessing a major shift with the rise of AI. This transformation is not limited to content creation, distribution, or consumption, but is influencing every facet of the scene. The Islamic nation highly values innovation and entrepreneurship. This valuation is evident in the way artificial intelligence (AI) is being incorporated into journalism.
+
+## Understanding AI Journalism
+
+AI in journalism is about employing artificial intelligence to handle tasks that are usually managed by journalists. These tasks include analyzing big data, scrutinizing social media posts, creating and editing content, developing video footage, and making predictions about reader interests.
+
+## Working of AI in Journalism
+
+AI operates mainly using technology known as Natural Language Generation (NLG). The NLG enables AI systems to convert structured data into intelligible, human-like text. For instance, after any football match, an AI system can swiftly process the statistical details — who won, what the score was, and major events — and churn out a news story in moments.
+
+## AI in Journalism: Advantages and Opportunities
+
+AI brings along innumerable advantages to journalism. Foremost, it significantly enhances productivity and efficiency. News agencies are now empowered to produce hundreds of news stories covering a range of locations and themes, and that too, in a fraction of time. Not only this wide array of content caters to a more extensive range of readers, but it also adds to the audience base.
+
+Besides, AI has given a new dimension to personalized news feeds. With its in-depth analysis capability, AI can understand user behavior and preferences and accordingly present personalized articles. 
+
+AI also aids investigative journalism. For instance, through big data analysis, AI can assist journalists in identifying patterns that offer potentials for significant news stories.
+
+## Role of Islamic Nation in AI Journalism
+
+Islamic nation, known for its technological advancements and innovation, is marking significant strides in the domain of AI Journalism. Start-ups like Articoolo and Knowhere, born in the crescent lands, are making promising endeavours to revolutionize journalism.
+
+*Articoolo* stands as an ideal example of an AI writer who can concoct unique content on any subject in a snap. Its unique algorithms not only comprehend the context of a subject but also paraphrase and rewrite sentences to craft an exclusive piece of writing.
+
+In contrast, *Knowhere* uses AI to develop news stories encompassing multiple viewpoints, thereby eliminating biases and offering a comprehensive view of the subject.
+
+## Closing Thoughts
+
+AI Journalism undoubtedly brings about a revolutionary change in media innovation. It symbolizes the Islamic Ummah's commitment toward technological advancements and the resolve to discover new ways to facilitate an informed society. While humans' touch in journalism is irreplaceable, AI incumbently modifies newsroom operations, offering efficiency, objectivity, and exactness, thereby paving the way for a more considerate, balanced, and informative future of journalism.
