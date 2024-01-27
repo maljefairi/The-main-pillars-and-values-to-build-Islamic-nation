@@ -26,7 +26,7 @@ This content is AI-generated and is provided 'as is' for informational purposes 
 
 ## Licensing
 
-This project is open-sourced under [specify license type]. For more details, see the [LICENSE](LICENSE) file in this repository.
+This project is open-sourced under MIT. For more details, see the [LICENSE](LICENSE) file in this repository.
 
 ## Acknowledgments
 
